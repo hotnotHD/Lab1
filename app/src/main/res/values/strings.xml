@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="button1">Button</string>
+    <string name="hello">Hello</string>
+    <string name="star">star</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="rating">rating</string>
+</resources>
